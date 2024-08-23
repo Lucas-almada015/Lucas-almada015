@@ -22,9 +22,9 @@
 <td width="50%">
 <h3 align="center">Proyecto de App de Gestión de Lotes</h3>
 <div align="center">
-<a href="https://github.com/Lucas-almada015/GestionLotesApp" target="_blank"><img src="ejemplo1.jpg" width="400" alt="App de Gestión de Lotes"></a>
+<a href="https://github.com/Lucas-almada015/LOTIFY.llfsa" target="_blank"><img src="ejemplo1.jpg" width="400" alt="App de Gestión de Lotes"></a>
 <p>
-<a href="https://github.com/Lucas-almada015/GestionLotesApp" target="_blank">
+<a href="https://github.com/Lucas-almada015/LOTIFY.llfsa" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -35,14 +35,14 @@
 <td width="50%">
 <h3 align="center">Proyecto de Bolsa de Trabajo Informal</h3>
 <div align="center">                                       
-<a href="https://github.com/Lucas-almada015/ClimaApp" target="_blank"><img src="ejemplo2.jpg" width="400" alt="App de Bolsa de Trabajo Informal "></a>
+<a href="https://github.com/Lucas-almada015/ESLA" target="_blank"><img src="ejemplo2.jpg" width="400" alt="App de Bolsa de Trabajo Informal "></a>
 <br>
 <p>
-<a href="https://github.com/Lucas-almada015/ClimaApp" target="_blank">
+<a href="https://github.com/Lucas-almada015/ESLA" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplicación móvil que utiliza APIs de clima para mostrar la información meteorológica basada en la ubicación del usuario.</p>
+<p>Aplicación web que utiliza PHP para lograr una bolsa de trabajo informal.</p>
 </div>                                                             
 </td>
 </tr>
