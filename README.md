@@ -11,7 +11,7 @@
 - 📱 Desarrollador de aplicaciones móviles.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo de software.
 - 💼 Tengo experiencia en desarrollo de aplicaciones Android y en la implementación de bases de datos en Firebase.
-- 🌐 Puedes ver mi currículum [aquí](https://lucas-almada015.github.io/LucasAlmadaCV/).
+- 🌐 Puedes ver mi currículum [aquí](https://lucas-almada015.github.io/cv3/).
 - 📫 Puedes contactarme en mi [perfil de LinkedIn](https://www.linkedin.com/in/lucas-almada-a2271a237/).
 
 <br>
